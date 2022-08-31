@@ -70,7 +70,8 @@ export default {
 
 <style scoped>
 #programmes-mieux-etre {
-  margin: 2em;
+  margin-top: 4em;
+  margin-bottom: 4em;
 }
 
 article {

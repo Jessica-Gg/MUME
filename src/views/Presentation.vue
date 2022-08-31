@@ -42,7 +42,6 @@ export default {
 <style scoped>
 #presentation {
   margin: 4em;
-  height: 100%;
 }
 
 article {

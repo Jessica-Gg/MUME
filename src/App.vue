@@ -19,8 +19,8 @@ export default {
   background-color: white;
   color: #0c0c0c;
   justify-content: center;
+  margin-right: 5%;
+  margin-left: 5%;
 }
-
-
 
 </style>
